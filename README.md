@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniket-4950
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning about Amazon Web Services
-- 💞️ I’m looking to collaborate on Python, AWS, ML
+- 🌱 I’m currently learning about AWS, Django and React
+- 💞️ I’m looking to collaborate on Python, MS Excel, VBA and Macros
 - 📫 How to reach me chaubeyaniket4950@gmail.com
 
 <!---
